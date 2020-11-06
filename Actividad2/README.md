@@ -1,4 +1,4 @@
-# Actividad1
+# Actividad 2 Login
 
 ### Trabajo realizado por:
 * Luis Guillermo Vélez Segura-20181020113
