@@ -5,4 +5,4 @@
 * Alex Humberto Rodriguez Rueda-20181020088
 
 #### Ventana
-![Ventana](Imagenes/Login.png)
+![Login](Imagenes/Login.jpeg)
