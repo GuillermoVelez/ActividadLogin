@@ -1,4 +1,4 @@
-# Actividad1
+# Actividad 1 Ventana Explicada
 
 ### Trabajo realizado por:
 * Luis Guillermo Vélez Segura-20181020113
