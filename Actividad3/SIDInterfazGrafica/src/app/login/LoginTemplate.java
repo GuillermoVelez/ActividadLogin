@@ -73,13 +73,7 @@ public class LoginTemplate extends JFrame {
         this.add(pIzquierda);
         
       
-        ImageIcon iconoPanel = new ImageIcon("imagenes//FondoLogin.png");
-        ImageIcon iconoPanelO = new ImageIcon(iconoPanel.getImage().getScaledInstance(pIzquierda.getWidth(), pIzquierda.getHeight(), Image.SCALE_DEFAULT));
-        lFondo = new JLabel(iconoPanelO);
-        lFondo.setBounds(0, 0, pIzquierda.getWidth(), pIzquierda.getHeight());
-        //lTituloApp.setLocation((pIzquierda.getWidth() - lTituloApp.getWidth()) / 2, 40);
-        lFondo.setLayout(null);
-        pIzquierda.add(lFondo);
+       
         
         lTituloApp = new JLabel();
         lTituloApp.setBounds(50, 20, 150, 30);
@@ -172,6 +166,14 @@ public class LoginTemplate extends JFrame {
         bRegistrarse.setForeground(Color.WHITE);
         bRegistrarse.setCursor(cMano);
         pIzquierda.add(bRegistrarse);
+        
+        ImageIcon iconoPanel = new ImageIcon("imagenes//FondoLogin.png");
+        ImageIcon iconoPanelO = new ImageIcon(iconoPanel.getImage().getScaledInstance(pIzquierda.getWidth(), pIzquierda.getHeight(), Image.SCALE_DEFAULT));
+        lFondo = new JLabel(iconoPanelO);
+        lFondo.setBounds(0, 0, pIzquierda.getWidth(), pIzquierda.getHeight());
+        //lTituloApp.setLocation((pIzquierda.getWidth() - lTituloApp.getWidth()) / 2, 40);
+        lFondo.setLayout(null);
+        pIzquierda.add(lFondo);
         
         
         bApple = new JButton("Apple");
