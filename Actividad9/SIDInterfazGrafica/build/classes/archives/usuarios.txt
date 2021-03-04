@@ -1,0 +1,4 @@
+Alex,123456,resources//imagenes//Perfiles//Mordekaiser.png
+caimanc,prodelol,resources//imagenes//Perfiles//aurelion.jfif
+Juncorum07,caimanese,resources//imagenes//Perfiles//brand.png
+Infamousz36,963258,resources//imagenes//Perfiles//Zed.png
